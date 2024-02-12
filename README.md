@@ -27,15 +27,19 @@ To run the project locally, follow these steps:
 git clone https://github.com/yourusername/stopwatch.git
 ```
 
-
-Open the index.html file in your web browser.
-
 ## Usage
-1. Click the "Start" button to start the stopwatch. Click again to pause.
-2. Click the "Reset" button to reset the stopwatch to zero.
+1. Open the index.html file in your web browser.
+2. Click the "Start" button to start the stopwatch. Click again to pause.
+3. Click the "Reset" button to reset the stopwatch to zero.
 
-## Demo
-A live demo of the project is available here.
+>If you want this project then go ahead. Fork and clone it, and make changes according to you. After that, you can host it on Github using Github pages.
+For any help reach me on **social media link** in profile readme. https://www.instagram.com/lets__code/
+<br><br>
+
+<h2>Connect with me</h2>
+<br>
+<a href="https://www.linkedin.com/in/haranmadiq/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"</img></a>
+<a href="https://github.com/HaranMadiq"><img src="https://img.icons8.com/color/48/000000/github--v3.png"</img></a>
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or additional features.
