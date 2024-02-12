@@ -23,3 +23,16 @@ To run the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/stopwatch.git
+
+
+Open the index.html file in your web browser.
+
+## Usage
+1. Click the "Start" button to start the stopwatch. Click again to pause.
+2. Click the "Reset" button to reset the stopwatch to zero.
+
+## Demo
+A live demo of the project is available here.
+
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or additional features.
