@@ -1,5 +1,7 @@
 # Stopwatch 
 
+Web link - https://stopwatch-hm.netlify.app/
+
 This is a simple web application that provides a stopwatch functionality along with displaying the current date and time. It allows users to start, pause, and reset the stopwatch. The stopwatch displays time in hours, minutes, seconds, and milliseconds.
 
 ## Features
