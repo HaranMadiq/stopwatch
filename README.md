@@ -23,7 +23,8 @@ To run the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/stopwatch.git
-```bash
+```
+
 
 Open the index.html file in your web browser.
 
